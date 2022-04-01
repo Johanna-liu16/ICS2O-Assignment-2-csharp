@@ -19,7 +19,7 @@ class Program
         bases = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter height: ");
         height = Convert.ToInt32(Console.ReadLine());
-      
+
         Console.WriteLine("");
         Console.WriteLine("The area is: " + (bases * height).ToString("0.00") + " cm².");
 
