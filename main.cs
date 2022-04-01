@@ -13,7 +13,7 @@ class Program
         int bases;
         int height;
 
-        Console.WriteLine("This program will calculate the volume of a pyramid.");
+        Console.WriteLine("This program calculates the area of a parallelogram.");
         Console.WriteLine("");
         Console.Write("Enter base: ");
         bases = Convert.ToInt32(Console.ReadLine());
